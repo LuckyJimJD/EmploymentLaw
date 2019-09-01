@@ -65,22 +65,12 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ## Introduction: Employment as a Socio-Legal Institution
 
-#### January 3rd
-
 - Karen Orren, [Belated Feudalism: Labor, the Law, and Liberal Development in the United States](materials/Introduction/Orren_BelatedFeudalism_Chap3.pdf), chap. 3 (1991)
 - Elizabeth Anderson, ["Lecture II: Private Government"](materials/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94-118 (2016)
 
 ## The Employment Relationship
 
-### Writing Assignment 1
-
-#### Due Jan. 15
-
-- The Canine Trainer (Workplace Law, Chap. 1)
-
 ### Employees
-
-#### January 8th
 
 - [Lemmerman v. A.T. Williams Oil Co.](https://scholar.google.com/scholar_case?case=6248840867874930751), 350 S.E.2d 83 (N.C. 1986)
 - [Razak v. Uber Technologies, Inc.](https://scholar.google.com/scholar_case?case=5384082864511002532), No. 16-573 (E.D. Pa. April 11, 2018)
@@ -91,16 +81,12 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ### Employers
 
-#### January 10th
-
 - [Amarnare v. Merrill Lynch, Pierce, Fenner, & Smith, Inc.](https://scholar.google.com/scholar_case?case=832858493617782845), 611 F. Supp. 344 (S.D.N.Y. 1984)
 - [Zheng v. Liberty Apparel Co.](https://scholar.google.com/scholar_case?case=9605763977687687114), 355 F.3d 61 (2d Cir. 2003)
 - [Kology v. My Space NYC Corp.](https://scholar.google.com/scholar_case?case=5171880513635207739), 177 F. Supp. 3d 778 (E.D.N.Y. 2016)
 - EEOC, [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms](materials/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
 
 ## Recruitment & Hiring
-
-#### January 15th
 
 - In-Class Problem: The High-End Mechanic (Workplace Law, Chap. 3)
 - [Harrison v. Benchmark Electronics Hunstville, Inc.](https://scholar.google.com/scholar_case?case=7044367588430248224), 593 F.3d 1206 (11th Cir. 2010)
@@ -110,17 +96,13 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 - [McDonnell Douglas Corp. v. Green](https://scholar.google.com/scholar_case?case=4011882228792863251), 411 U.S. 792 (1973)
 - [Griggs v. Duke Power Co.](https://scholar.google.com/scholar_case?case=8655598674229196978), 401 U.S. 424 (1971)
 
+##### Writing Assignment 1 (Due Jan. 15)
+
+- The Canine Trainer (Workplace Law, Chap. 1)
+
 ## Supervision & Control
 
-### Writing Assignment 2
-
-#### Due Jan. 29th
-
-- A Troublesome Crew (Workplace Law, Chap. 7)
-
 ### Workplace Supervision & Control
-
-#### January 17th
 
 - [T-Mobile USA, Inc.](https://apps.nlrb.gov/link/document.aspx/09031d45820a5493), 363 NLRB No. 171 (2016)
 - [Cloutier v. Costco Wholesale Corp.](https://scholar.google.com/scholar_case?case=15139833012244209720), 390 F.3d 126 (2004)
@@ -132,16 +114,12 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ### Workplace Discrimination & Harassment
 
-#### January 22nd
-
 - [Hogan v. Forsyth Country Club Co.](https://scholar.google.com/scholar_case?case=3693573124585245560), 340 S.E.2d 116 (N.C. App. 1986)
 - [Burlington Industries, Inc. v. Ellerth](https://scholar.google.com/scholar_case?case=2707173104214869053), 524 US 742 (1998)
 - [Faragher v. Boca Raton](https://scholar.google.com/scholar_case?case=15103611360542350644), 524 US 775 (1998)
 - Ramit Mizrahi, [Sexual Harassment Law After #MeToo: Looking to California as a Model](https://www.yalelawjournal.org/pdf/Mizrahi_9ssdtnny.pdf), Yale Law Journal Forum (June 18, 2018)
 
 ### Supervision & Control Outside the Workplace
-
-#### January 24th
 
 - In-Class Problem: The Facebook Post (Workplace Law, Chap. 6)
 - [Curay-Cramer v. Ursuline Academy](https://scholar.google.com/scholar_case?case=4785663354025834706), 450 F.3d 130 (2006)
@@ -152,17 +130,13 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 - [California Labor Code §§ 1101-1106](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=2.&title=&part=3.&chapter=5.&article=)
 - [N.C.G.S. § 95-28.2](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_95/GS_95-28.2.html)
 
+##### Writing Assignment 2 (Due Jan. 29)
+
+- A Troublesome Crew (Workplace Law, Chap. 7)
+
 ## Employee Loyalty & Confidentiality
 
-### Writing Assignment 3
-
-#### Due Feb. 5th
-
-- The Doctor Is In (Workplace Law, Chap. 5)
-
 ### Disclosure & Misuse of Confidential Information
-
-#### January 29th
 
 - [Food Lion, Inc. v. Capital Cities/ABC, Inc.](https://scholar.google.com/scholar_case?case=6427205145089719796), 951 F.Supp. 1224 (M.D.N.C. 1996), aff'd in relevant part, 194 F. 3d 505 (4th Cir. 1999)
 - [Dalton v. Camp](https://scholar.google.com/scholar_case?case=12759321085440149299), 548 S.E.2d 704 (N.C. 2001)
@@ -172,16 +146,16 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ### Restrictions on Future Employment 
 
-#### January 31st
-
 - [TSG Finishing, LLC v. Bollinger](https://scholar.google.com/scholar_case?case=12615983263331769195), 767 S.E.2d 870 (N.C. App. 2014)
 - [Edwards v. Arthur Anderson, LLP](https://scholar.google.com/scholar_case?case=969445912817466674), 44 Cal.4th 937 (2008)
 - Conor Dougherty, [How Noncompete Clauses Keep Workers Locked In](https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html), N.Y. Times (June 9, 2017)
 - Conor Dougherty, [Noncompete Pacts, Under Seige, Find Haven in Idaho](https://www.nytimes.com/2017/07/14/business/economy/boise-idaho-noncompete-law.html), N.Y. Times (July 14, 2017)
 
-## Wages & Hours
+##### Writing Assignment 3 (Due Feb. 5)
 
-#### February 5th
+- The Doctor Is In (Workplace Law, Chap. 5)
+
+## Wages & Hours
 
 - In-Class Problem: At Your Service (Workplace Law, Chap. 11)
 - [Fair Labor Standards Act](https://www.law.cornell.edu/uscode/text/29/chapter-8), 29 U.S.C. § 201 et seq.
@@ -193,23 +167,17 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ### Disability Discrimination & Accommodation
 
-#### February 7th
-
 - In-Class Problem: The Sleepy Cashier (Workplace Law, Chap. 8)
 - [Weaving v. City of Hillsboro](https://scholar.google.com/scholar_case?case=308923435134174858), 763 F.3d 1106 (9th Cir. 2014)
 - [US Airways, Inc. v. Barnett](https://scholar.google.com/scholar_case?case=5579429818149153903), 535 U.S. 391 (2002)
 
 ### Workers' Compensation 
 
-#### February 12th
-
 - [NC Workers' Compensation Act](http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_97/Article_1.html),N.C.G.S. §§ 97-1 et seq.
 - [McGrady v. Olsten Corp.](https://scholar.google.com/scholar_case?case=16870479702852544836), 583 S.E.2d 371 (N.C. App. 2003)
 - [Deem v. Treadaway & Sons Painting & Wallcovering, Inc.](https://scholar.google.com/scholar_case?case=1513165138469746147), 543 SE 2d 209 (N.C. App. 2001)
 
 ### Occupational Safety & Health 
-
-#### February 14th
 
 - [Occupational Safety & Health Act](https://www.law.cornell.edu/uscode/text/29/chapter-15), 29 U.S.C. § 651 et seq.
 - [Durez Division of Occidental Chemical Corp. v. OSHA](https://scholar.google.com/scholar_case?case=1739634889523204094), 906 F.2d 1 (DC Cir. 1990)
@@ -219,22 +187,12 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ## Terminating Employment
 
-### Writing-Assignment 4
-
-#### Due March 12th
-
-- The Smart-Tek IPO (Workplace Law, Chap. 4)
-
 ### Employment-at-Will
-
-#### January 19th
 
 - [Skagerberg v. Blandin Paper Co.](materials/Termination/Skagerberg.pdf), 266 N.W. 872 (Minn. 1936)
 - [Pugh v. See's Candies, Inc.](https://scholar.google.com/scholar_case?case=15425639941632764596), 116 Cal. App. 3d 311 (1981)
 
 ### Contract & Reliance Claims for Wrongful Termination 
-
-#### February 21st
 
 - In-Class Problem: In-House at Big Pharm (Workplace Law, Chap. 2)
 - [Woolley v. Hoffmann-La Roche, Inc.](https://scholar.google.com/scholar_case?case=13252924286881016662), 491 A. 2d 1257 (N.J. 1985)
@@ -242,8 +200,6 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 - [Kurtzman v. Applied Analytical Industries, Inc.](https://scholar.google.com/scholar_case?case=18327963070137805198), 493 S.E.2d 420 (N.C. 1997)
 
 ### Tort Claims for Wrongful Termination 
-
-#### February 26th
 
 - [Fortune v. National Cash Register Co.](https://scholar.google.com/scholar_case?case=6986969372193814031), 364 NE 2d 1251 (Mass. 1977)
 - [Murphy v. American Home Products Corp.](https://scholar.google.com/scholar_case?case=17713301105983634351), 58 N.Y.2d 293 (1983)
@@ -255,8 +211,6 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ### Statutory Claims for Wrongful Termination
 
-#### February 28th
-
 - [Kraft v. Police Commissioner of Boston](https://scholar.google.com/scholar_case?case=13581269039453552612), 571 N.E.2d 380 (1991)
 - [Nelson v. Knight](https://scholar.google.com/scholar_case?case=4567992880939190219), 834 N.W.2d 64 (Iowa 2013)
 - [Yanowitz v. L'Oreal USA, Inc.](https://scholar.google.com/scholar_case?case=9894988930874080972), 116 P.3d 1123 (Cal. 2005)
@@ -264,16 +218,16 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 ### Unemployment Compensation
 
-#### March 5th
-
 - [NC Employment Security Law](materials/UnemploymentComp/NCGS_96-1.pdf), N.C.G.S. § 96-1 et seq.
 - [Intercraft Industries Corp. v. Morrison](https://scholar.google.com/scholar_case?case=18288373329102087649), 289 S.E.2d 357 (NC 1982)
 - [Lindsey v. Qualex, Inc.](https://scholar.google.com/scholar_case?case=14758084602033497150), 406 S.E.2d 609 (N.C. App. 1991)
 - [Lynch v. PPG Industries](https://scholar.google.com/scholar_case?case=10907573351503868530), 412 S.E.2d 163 (N.C. App. 1992)
 
-## Employment Arbitration
+### Writing-Assignment 4 (Due March 12)
 
-#### March 7th
+- The Smart-Tek IPO (Workplace Law, Chap. 4)
+
+## Employment Arbitration
 
 - In-Class Problem: The Aging Chocolatier (Workplace Law, Chap. 10)
 - [Epic Systems Corp. v. Lewis](https://scholar.google.com/scholar_case?case=8345012189188610773), 138 S.Ct. 1612 (2018)
