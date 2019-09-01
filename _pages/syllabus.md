@@ -26,7 +26,6 @@ This course surveys federal and state laws governing employment. Topics to be co
 
 After completing the course, you should be able to recognize and diagnose legal issues arising in the employment context, analyze those issues under the applicable law, and help clients avoid those issues or remedy them when they arise. Simulation problems provide an opportunity to develop practical skills for representing clients in employment matters. 
 
-
 # Materials
 
 Paul M. Secunda, Richard Bales, Jeffrey M. Hirsch, Understanding Employment Law (3d ed., Carolina Academic Press 2019)
