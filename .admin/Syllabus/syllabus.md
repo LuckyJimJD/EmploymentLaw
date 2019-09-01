@@ -10,9 +10,9 @@ affiliation: 'Elon Law School'
 email: 'efink@elon.edu'
 phone: '336.279.9334'
 
-term: 'Summer Term I 2019'
-days: 'Monday, Wednesday, & Thursday, 1:30–4:00 pm'
-room: 'Room 105'
+term: Winter 2019
+days: Tuesday & Thursday, 9:00–10:45 am
+room: Room 204
 
 output:
   pdf_document:
@@ -30,7 +30,11 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 ##### Grading
 
-In-class performance and the final exam will each count for 50% of your final grade. 
+Your final grade for this course will be based on a series of written problem assignments (X% each; Y% total) and your in-class performance (Z%). 
+
+Class sessions for this course will combine traditional law school format (lecture & discussion of assigned readings) and simulation problems. I expect you to complete all reading assignments before class, attend each class session, and engage constructively in class activities. 
+
+In-class performance will count for 50% of your final grade. The four take-home writing assignments (see "Topic Outline & Assignments" below) will count for the remaining 50% of your final grade. There will be no final exam or paper for this course. 
 
 The in-class performance component of your final grade depends on your preparation before class (completing all assigned reading and reviewing simulation problems),[^1] regular and prompt class attendance, and constructive engagement during class. 
 
