@@ -1,3 +1,3 @@
-# CourseTemplate
+# Employment Law
 
-Template for course sites using luckyjimjd/CourseTheme
+Course site for Employment Law (Prof. Fink) at Elon Law School
