@@ -26,6 +26,16 @@ This course surveys federal and state laws governing employment. Topics to be co
 
 After completing the course, you should be able to recognize and diagnose legal issues arising in the employment context, analyze those issues under the applicable law, and help clients avoid those issues or remedy them when they arise. Simulation problems provide an opportunity to develop practical skills for representing clients in employment matters. 
 
+
+# Materials
+
+Paul M. Secunda, Richard Bales, Jeffrey M. Hirsch, Understanding Employment Law (3d ed., Carolina Academic Press 2019)
+
+Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016)
+
+Cases, statutes, and other assigned readings are available online via the course website, [`emfink.net/LaborLaw`](https://www.emfink.net/LaborLaw). 
+
+
 # Policies 
 
 #### Grading
@@ -53,13 +63,6 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 #### Honor Code 
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
-
-# Materials
-
-Gerald Hess, et al, Civil Procedure: A Context & Practice Casebook (Carolina Academic Press, 2d ed. 2019)
-
-The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseTemplate), has subject outlines, visual aids, practice problems, and links to statutes and other resources. 
-
 
 # Outline & Assignments
 
