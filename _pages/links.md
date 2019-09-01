@@ -13,7 +13,7 @@ title: Links
 - [Civil Rights Act of 1964, Title VII](https://www.eeoc.gov/laws/statutes/titlevii.cfm), 42 U.S.C. § 2000e et seq.
 - [Americans with Disabilities Act](https://www.ada.gov/pubs/adastatute08.htm), 42 U.S.C. § 12101 et seq.
 - [Family and Medical Leave Act](https://www.dol.gov/whd/regs/statutes/fmla.htm), 29 U.S.C. § 2601 et seq.
-- [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms](materials/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
+- [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms]({{ site.baseurl }}/assets/pdf/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
 - [Occupational Safety & Health Act](https://www.law.cornell.edu/uscode/text/29/chapter-15), 29 U.S.C. § 651 et seq.
 
 ### State  
