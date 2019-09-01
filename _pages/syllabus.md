@@ -96,9 +96,7 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 - [McDonnell Douglas Corp. v. Green](https://scholar.google.com/scholar_case?case=4011882228792863251), 411 U.S. 792 (1973)
 - [Griggs v. Duke Power Co.](https://scholar.google.com/scholar_case?case=8655598674229196978), 401 U.S. 424 (1971)
 
-##### Writing Assignment 1 (Due Jan. 15)
-
-- The Canine Trainer (Workplace Law, Chap. 1)
+##### Writing Assignment 1: The Canine Trainer (Workplace Law, Chap. 1), due Jan. 15
 
 ## Supervision & Control
 
@@ -130,9 +128,7 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 - [California Labor Code §§ 1101-1106](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=2.&title=&part=3.&chapter=5.&article=)
 - [N.C.G.S. § 95-28.2](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_95/GS_95-28.2.html)
 
-##### Writing Assignment 2 (Due Jan. 29)
-
-- A Troublesome Crew (Workplace Law, Chap. 7)
+##### Writing Assignment 2: A Troublesome Crew (Workplace Law, Chap. 7), due Jan. 29
 
 ## Employee Loyalty & Confidentiality
 
@@ -151,9 +147,7 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 - Conor Dougherty, [How Noncompete Clauses Keep Workers Locked In](https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html), N.Y. Times (June 9, 2017)
 - Conor Dougherty, [Noncompete Pacts, Under Seige, Find Haven in Idaho](https://www.nytimes.com/2017/07/14/business/economy/boise-idaho-noncompete-law.html), N.Y. Times (July 14, 2017)
 
-##### Writing Assignment 3 (Due Feb. 5)
-
-- The Doctor Is In (Workplace Law, Chap. 5)
+##### Writing Assignment 3: The Doctor Is In (Workplace Law, Chap. 5), due Feb. 5
 
 ## Wages & Hours
 
@@ -223,9 +217,7 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 - [Lindsey v. Qualex, Inc.](https://scholar.google.com/scholar_case?case=14758084602033497150), 406 S.E.2d 609 (N.C. App. 1991)
 - [Lynch v. PPG Industries](https://scholar.google.com/scholar_case?case=10907573351503868530), 412 S.E.2d 163 (N.C. App. 1992)
 
-### Writing-Assignment 4 (Due March 12)
-
-- The Smart-Tek IPO (Workplace Law, Chap. 4)
+### Writing-Assignment 4: The Smart-Tek IPO (Workplace Law, Chap. 4), due March 12
 
 ## Employment Arbitration
 
