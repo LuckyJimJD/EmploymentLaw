@@ -8,10 +8,10 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-course: 'Employment Law'
-term: 'Winter 2019'
-days: 
-room: 
+course: Employment Law
+term: Winter 2019
+days: Tuesday & Thursday, 9:00–10:45 am
+room: Room 204
 
 output: 
   pdf_document:
