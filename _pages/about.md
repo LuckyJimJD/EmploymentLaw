@@ -1,9 +1,9 @@
 ---
 layout: about
 permalink: /
-title: Home
-
+title: about
 social: true
+
 ---
 
 <h1 class="profile">{{ site.data.course.subject }}</h1>
