@@ -24,11 +24,11 @@ title: Links
 
 ### State  
 
-- [NC Workers' Compensation Act](http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_97/Article_1.html), N.C.G.S. §§ 97-1 et seq.
+- [NC Workers' Compensation Act](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_97.pdf), N.C.G.S. chap. 97
 
-- [NC Retaliatory Employment Discrimination Act](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_95/Article_21.html), N.C.G.S. § 95-240 et seq.
+- [NC Retaliatory Employment Discrimination Act](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_95/Article_21.pdf), N.C.G.S. chap. 95, art. 21
 
-- [NC Employment Security Law](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_96.html), N.C.G.S. § 96-1 et seq.
+- [NC Employment Security Law](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_96.pdf), N.C.G.S. chap. 96
 
 - [NC Trade Secrets Protection Act](http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_66/Article_24.html), N.C.G.S. § 66-152 et seq.
 
@@ -44,7 +44,7 @@ title: Links
 
 ### State  
 
-- [North Carolina Department of Labor](http://www.nclabor.com/)
+- [North Carolina Department of Labor](https://www.labor.nc.gov/)
 
 - [North Carolina Industrial Commission](http://www.ic.nc.gov/)
 
@@ -58,12 +58,12 @@ title: Links
 
 - [NC Bar Association—Labor & Employment Law Section](https://www.ncbar.org/members/sections/labor-employment-law/)
 
-- [Labor & Employment Relations Association](http://www.leraweb.org/)
+- [Labor & Employment Relations Association](https://www.leraweb.org/)
 
-- [National Employment Law Project](http://www.nelp.org/)
+- [National Employment Law Project](https://www.nelp.org)
 
 - [National Employment Lawyers Association](https://www.nela.org/)
 
-- [National Workrights Institute](http://workrights.us/)
+- [National Workrights Institute](https://www.workrights.org)
 
 - [Workplace Fairness](https://www.workplacefairness.org/)
