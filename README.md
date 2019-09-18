@@ -1,3 +1,3 @@
 # Employment Law
 
-Course site for Employment Law (Prof. Fink) at Elon Law School
+Employment Law (Prof. Fink) at Elon Law School
