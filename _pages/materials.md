@@ -8,6 +8,8 @@ title: Materials
 
 ### The Employment Relationship
 
+- [Elizabeth Anderson on Worker Rights and Private Government](http://bit.ly/37AUk7e), EconTalk (Feb. 26, 2018)
+- Joshua Rothman, [Are Bosses Dictators](http://bit.ly/2RyGRaC), The New Yorker (Sept. 12, 2017)
 - Naomi B. Sunshine, [Employees as Price-Takers](https://heinonline.org/HOL/Page?handle=hein.journals/lewclr22&collection=journals&id=115&startid=&endid=166), 22 Lewis & Clark L. Rev. 105 (2018)
 
 - Richard R. Carlson, [Why the Law Still Can't Tell an Employee When It Sees One And How It Ought to Stop Trying](https://www.jstor.org/stable/24052136), 22 Berkeley Journal of Employment and Labor Law 295 (2001)
@@ -60,6 +62,6 @@ title: Materials
 
 ### Employment Arbitration 
 
-- Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/pdf/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
+- Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/course_material/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
 
 - Jessica Silver-Greenberg & Michael Corkery, [In Arbitration, a 'Privatization of the Justice System'](https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html), N.Y. Times (Nov. 1, 2015)

@@ -67,8 +67,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ## Introduction: Employment as a Socio-Legal Institution
 
-- Karen Orren, [Belated Feudalism: Labor, the Law, and Liberal Development in the United States]({{ site.baseurl }}/assets/pdf/Introduction/Orren_BelatedFeudalism_Chap3.pdf), chap. 3 (1991)
-- Elizabeth Anderson, ["Lecture II: Private Government"]({{ site.baseurl }}/assets/pdf/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94-118 (2016)
+- Karen Orren, [Belated Feudalism: Labor, the Law, and Liberal Development in the United States]({{ site.baseurl }}/assets/course_material/Introduction/Orren_BelatedFeudalism_Chap3.pdf), chap. 3 (1991)
+- Elizabeth Anderson, ["Lecture II: Private Government"]({{ site.baseurl }}/assets/course_material/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94-118 (2016)
 
 ## The Employment Relationship
 
@@ -76,7 +76,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - [Lemmerman v. A.T. Williams Oil Co.](https://scholar.google.com/scholar_case?case=6248840867874930751), 350 S.E.2d 83 (N.C. 1986)
 - [Razak v. Uber Technologies, Inc.](https://scholar.google.com/scholar_case?case=5384082864511002532), No. 16-573 (E.D. Pa. April 11, 2018)
-- [Berwick v. Uber Technologies, Inc.]({{ site.baseurl }}/assets/pdf/Employment_Relation/Berwick_Uber.pdf), No. 11-46739 EK (Cal. Labor Comm'r June 3, 2015)
+- [Berwick v. Uber Technologies, Inc.]({{ site.baseurl }}/assets/course_material/Employment_Relation/Berwick_Uber.pdf), No. 11-46739 EK (Cal. Labor Comm'r June 3, 2015)
 - [Alexander v. FedEx Ground Package System, Inc.](https://scholar.google.com/scholar_case?case=16282080975593758278), 765 F. 3d 981 (9th Cir. 2014)
 - [Wang v. Hearst Corp.](https://scholar.google.com/scholar_case?case=5018866496258436934), 877 F.3d 69 (2d Cir. 2015)
 - [Livers v. Nat'l Collegiate Athletic Ass'n](https://scholar.google.com/scholar_case?case=4514170612925040922), No. CV 17-4271, 2018 WL 2291027 (E.D. Pa. May 17, 2018)
@@ -86,7 +86,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Amarnare v. Merrill Lynch, Pierce, Fenner, & Smith, Inc.](https://scholar.google.com/scholar_case?case=832858493617782845), 611 F. Supp. 344 (S.D.N.Y. 1984)
 - [Zheng v. Liberty Apparel Co.](https://scholar.google.com/scholar_case?case=9605763977687687114), 355 F.3d 61 (2d Cir. 2003)
 - [Kology v. My Space NYC Corp.](https://scholar.google.com/scholar_case?case=5171880513635207739), 177 F. Supp. 3d 778 (E.D.N.Y. 2016)
-- EEOC, [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms]({{ site.baseurl }}/assets/pdf/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
+- EEOC, [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms]({{ site.baseurl }}/assets/course_material/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
 
 ## Recruitment & Hiring
 
@@ -138,7 +138,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - [Food Lion, Inc. v. Capital Cities/ABC, Inc.](https://scholar.google.com/scholar_case?case=6427205145089719796), 951 F.Supp. 1224 (M.D.N.C. 1996), aff'd in relevant part, 194 F. 3d 505 (4th Cir. 1999)
 - [Dalton v. Camp](https://scholar.google.com/scholar_case?case=12759321085440149299), 548 S.E.2d 704 (N.C. 2001)
-- [American Air Filter Co. v. Price]({{ site.baseurl }}/assets/pdf/Confidentiality_Competition/Price.pdf), No. 16 CVS 13610, 2017 WL 2797794 (N.C. Super. June 26, 2017)
+- [American Air Filter Co. v. Price]({{ site.baseurl }}/assets/course_material/Confidentiality_Competition/Price.pdf), No. 16 CVS 13610, 2017 WL 2797794 (N.C. Super. June 26, 2017)
 - [NC Trade Secrets Protection Act](http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_66/Article_24.html), N.C.G.S. § 66-152 et seq.
 - [NC Property Protection Act](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99A.html), N.C.G.S. §  99A-2
 
@@ -185,7 +185,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Employment-at-Will
 
-- [Skagerberg v. Blandin Paper Co.]({{ site.baseurl }}/assets/pdf/Termination/Skagerberg.pdf), 266 N.W. 872 (Minn. 1936)
+- [Skagerberg v. Blandin Paper Co.]({{ site.baseurl }}/assets/course_material/Termination/Skagerberg.pdf), 266 N.W. 872 (Minn. 1936)
 - [Pugh v. See's Candies, Inc.](https://scholar.google.com/scholar_case?case=15425639941632764596), 116 Cal. App. 3d 311 (1981)
 
 ### Contract & Reliance Claims for Wrongful Termination 
@@ -214,7 +214,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Unemployment Compensation
 
-- [NC Employment Security Law]({{ site.baseurl }}/assets/pdf/UnemploymentComp/NCGS_96-1.pdf), N.C.G.S. § 96-1 et seq.
+- [NC Employment Security Law]({{ site.baseurl }}/assets/course_material/UnemploymentComp/NCGS_96-1.pdf), N.C.G.S. § 96-1 et seq.
 - [Intercraft Industries Corp. v. Morrison](https://scholar.google.com/scholar_case?case=18288373329102087649), 289 S.E.2d 357 (NC 1982)
 - [Lindsey v. Qualex, Inc.](https://scholar.google.com/scholar_case?case=14758084602033497150), 406 S.E.2d 609 (N.C. App. 1991)
 - [Lynch v. PPG Industries](https://scholar.google.com/scholar_case?case=10907573351503868530), 412 S.E.2d 163 (N.C. App. 1992)
@@ -225,5 +225,5 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - In-Class Problem: The Aging Chocolatier (Workplace Law, Chap. 10)
 - [Epic Systems Corp. v. Lewis](https://scholar.google.com/scholar_case?case=8345012189188610773), 138 S.Ct. 1612 (2018)
-- Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/pdf/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
+- Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/course_material/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
 - Jessica Silver-Greenberg & Michael Corkery, [In Arbitration, a 'Privatization of the Justice System'](https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html), N.Y. Times (Nov. 1, 2015)
