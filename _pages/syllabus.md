@@ -13,6 +13,8 @@ term: Winter 2019
 days: Tuesday & Thursday, 9:00–10:45 am
 room: Room 204
 
+nonumbers: true 
+
 output: 
   pdf_document:
     latex_engine: xelatex
