@@ -9,11 +9,9 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Employment Law
-term: Winter 2019
-days: Tuesday & Thursday, 9:00–10:45 am
-room: Room 204
-
-nonumbers: true 
+term: Winter 2020
+days: Days & Times TBD
+room: Room TBD
 
 output: 
   pdf_document:
@@ -30,12 +28,15 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 # Materials
 
-Paul M. Secunda, Richard Bales, Jeffrey M. Hirsch, Understanding Employment Law (3d ed., Carolina Academic Press 2019)
+#### Required 
 
 Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016)
 
 Cases, statutes, and other assigned readings are available online via the course website, [`emfink.net/LaborLaw`](https://www.emfink.net/LaborLaw). 
 
+#### Suggested 
+
+Paul M. Secunda, Richard Bales, Jeffrey M. Hirsch, Understanding Employment Law (3d ed., Carolina Academic Press 2019)
 
 # Policies 
 
@@ -100,7 +101,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [McDonnell Douglas Corp. v. Green](https://scholar.google.com/scholar_case?case=4011882228792863251), 411 U.S. 792 (1973)
 - [Griggs v. Duke Power Co.](https://scholar.google.com/scholar_case?case=8655598674229196978), 401 U.S. 424 (1971)
 
-##### Writing Assignment 1: The Canine Trainer (Workplace Law, Chap. 1), due Jan. 15
+##### Writing Assignment 1: The Canine Trainer (Workplace Law, Chap. 1), due DATE
 
 ## Supervision & Control
 
@@ -119,7 +120,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Hogan v. Forsyth Country Club Co.](https://scholar.google.com/scholar_case?case=3693573124585245560), 340 S.E.2d 116 (N.C. App. 1986)
 - [Burlington Industries, Inc. v. Ellerth](https://scholar.google.com/scholar_case?case=2707173104214869053), 524 US 742 (1998)
 - [Faragher v. Boca Raton](https://scholar.google.com/scholar_case?case=15103611360542350644), 524 US 775 (1998)
-- Ramit Mizrahi, [Sexual Harassment Law After #MeToo: Looking to California as a Model](https://www.yalelawjournal.org/pdf/Mizrahi_9ssdtnny.pdf), Yale Law Journal Forum (June 18, 2018)
 
 ### Supervision & Control Outside the Workplace
 
@@ -128,11 +128,10 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Rulon-Miller v. International Business Machines Corp.](https://scholar.google.com/scholar_case?case=5637363750389070326), 162 Cal. App. 3d 241 (1984)
 - [Triple Play Sports Bar & Grille](http://apps.nlrb.gov/link/document.aspx/09031d4581862ac8), 361 NLRB No. 31 (2014), aff'd, [Three D, LLC v. NLRB](https://scholar.google.com/scholar_case?case=125042716499739378), No. 14-3284  (2d Cir. Oct. 21, 2015)
 - [California Labor Code § 980](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=980.)
-- Alexander Hertel-Fernandez, [How Employers Recruit Their Workers into Politics—And Why Political Scientists Should Care](http://scholar.harvard.edu/files/ahertel/files/empmobilpop.pdf), 14 Perspectives on Politics 410 (2016)
 - [California Labor Code §§ 1101-1106](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=2.&title=&part=3.&chapter=5.&article=)
 - [N.C.G.S. § 95-28.2](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_95/GS_95-28.2.html)
 
-##### Writing Assignment 2: A Troublesome Crew (Workplace Law, Chap. 7), due Jan. 29
+##### Writing Assignment 2: A Troublesome Crew (Workplace Law, Chap. 7), due DATE
 
 ## Employee Loyalty & Confidentiality
 
@@ -148,10 +147,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - [TSG Finishing, LLC v. Bollinger](https://scholar.google.com/scholar_case?case=12615983263331769195), 767 S.E.2d 870 (N.C. App. 2014)
 - [Edwards v. Arthur Anderson, LLP](https://scholar.google.com/scholar_case?case=969445912817466674), 44 Cal.4th 937 (2008)
-- Conor Dougherty, [How Noncompete Clauses Keep Workers Locked In](https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html), N.Y. Times (June 9, 2017)
-- Conor Dougherty, [Noncompete Pacts, Under Seige, Find Haven in Idaho](https://www.nytimes.com/2017/07/14/business/economy/boise-idaho-noncompete-law.html), N.Y. Times (July 14, 2017)
 
-##### Writing Assignment 3: The Doctor Is In (Workplace Law, Chap. 5), due Feb. 5
+##### Writing Assignment 3: The Doctor Is In (Workplace Law, Chap. 5), due DATE
 
 ## Wages & Hours
 
@@ -221,11 +218,9 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Lindsey v. Qualex, Inc.](https://scholar.google.com/scholar_case?case=14758084602033497150), 406 S.E.2d 609 (N.C. App. 1991)
 - [Lynch v. PPG Industries](https://scholar.google.com/scholar_case?case=10907573351503868530), 412 S.E.2d 163 (N.C. App. 1992)
 
-### Writing-Assignment 4: The Smart-Tek IPO (Workplace Law, Chap. 4), due March 12
+##### Writing Assignment 4: The Smart-Tek IPO (Workplace Law, Chap. 4), due DATE
 
 ## Employment Arbitration
 
 - In-Class Problem: The Aging Chocolatier (Workplace Law, Chap. 10)
 - [Epic Systems Corp. v. Lewis](https://scholar.google.com/scholar_case?case=8345012189188610773), 138 S.Ct. 1612 (2018)
-- Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/course_material/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
-- Jessica Silver-Greenberg & Michael Corkery, [In Arbitration, a 'Privatization of the Justice System'](https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html), N.Y. Times (Nov. 1, 2015)
