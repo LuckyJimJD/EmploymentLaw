@@ -32,7 +32,7 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016)
 
-Cases, statutes, and other assigned readings are available online via the course website, [`emfink.net/LaborLaw`](https://www.emfink.net/LaborLaw). 
+Cases, statutes, and other assigned readings are available online via the course website, [`emfink.net/EmploymentLaw`](https://www.emfink.net/EmploymentLaw). 
 
 #### Suggested 
 
