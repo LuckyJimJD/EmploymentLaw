@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: home
 permalink: /
 title: about
 social: true
