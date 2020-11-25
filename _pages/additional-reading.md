@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: Resources
+title: Additional Reading
 ---
 
 
