@@ -68,7 +68,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 # Outline & Assignments
 
-
 ## Introduction
 
 #### 4 January
@@ -108,10 +107,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Recruitment & Hiring
 
 - In-Class Problem: The High-End Mechanic (Workplace Law, Chap. 3)
-- [Harrison v. Benchmark Electronics Hunstville, Inc.](https://scholar.google.com/scholar_case?case=7044367588430248224), 593 F.3d 1206 (11th Cir. 2010)
 - [Starbucks v. Superior Court](https://scholar.google.com/scholar_case?case=17493718255901717237), 168 Cal.App.4th 1436 (2008)
 - [Malorney v. B&L Motor Freight, Inc.](https://scholar.google.com/scholar_case?case=4195436759662276740), 496 N.E.2d 1086 (Ill. App. 1986)
 - [Kadlec Medical Center v. Lakeview Anesthesia Associates](https://scholar.google.com/scholar_case?case=11599447318284334533), 527 F.3d 412 (5th Cir. 2008)
+- [N.C.G.S. § 1-539.12](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_1/GS_1-539.12.pdf)
+- [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
+- EEOC, [Race/Color Discrmination](https://www.eeoc.gov/racecolor-discrimination)
+- EEOC, [Sex-Based Discrmination](https://www.eeoc.gov/sex-based-discrimination)
 - [McDonnell Douglas Corp. v. Green](https://scholar.google.com/scholar_case?case=4011882228792863251), 411 U.S. 792 (1973)
 - [Griggs v. Duke Power Co.](https://scholar.google.com/scholar_case?case=8655598674229196978), 401 U.S. 424 (1971)
 
@@ -133,8 +135,10 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### 25 January 
 
-### Workplace Discrimination & Harassment
+### Workplace Harassment
 
+- [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
+- EEOC, [Harassment](https://www.eeoc.gov/harassment)
 - [Hogan v. Forsyth Country Club Co.](https://scholar.google.com/scholar_case?case=3693573124585245560), 340 S.E.2d 116 (N.C. App. 1986)
 - [Burlington Industries, Inc. v. Ellerth](https://scholar.google.com/scholar_case?case=2707173104214869053), 524 US 742 (1998)
 - [Faragher v. Boca Raton](https://scholar.google.com/scholar_case?case=15103611360542350644), 524 US 775 (1998)
@@ -186,6 +190,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - In-Class Problem: At Your Service (Workplace Law, Chap. 11)
 - [Fair Labor Standards Act](https://www.law.cornell.edu/uscode/text/29/chapter-8), 29 U.S.C. § 201 et seq.
+- U.S. Department of Labor, [Minimum Wage](https://www.dol.gov/general/topic/wages/minimumwage)
+- U.S. Department of Labor, [Overtime Pay](https://www.dol.gov/general/topic/wages/overtimepay)
 - [Donovan v. DialAmerica Marketing, Inc.](https://scholar.google.com/scholar_case?case=99681934367428947),757 F.2d 1376 (3d Cir. 1985)
 - [Christopher v. SmithKline Beecham Corp.](https://scholar.google.com/scholar_case?case=8691037892334429353), 132 S.Ct. 2156 (2012)
 - [IBP, Inc. v. Alvarez](https://scholar.google.com/scholar_case?case=3356476187904611012), 546 U.S. 21 (2005)
@@ -194,20 +200,24 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Wage Payment & Deductions
 
-- N.C. Wage Payment statute 
+- [N.C. Wage and Hour Act](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_95/Article_2A.html)
 - Cases on payments and deductions 
 - David Cooper and Teresa Kroeger, [Employers Steal Billions from Workers’ Paychecks Each Year](https://www.epi.org/publication/employers-steal-billions-from-workers-paychecks-each-year-survey-data-show-millions-of-workers-are-paid-less-than-the-minimum-wage-at-significant-cost-to-taxpayers-and-state-economies/), Economic Police Institute (May 10, 2017)
 
-## Employee Health & Safety
+## Employee Health, Disabilities, & Injuries
 
 #### 15 February 
 
-### Disability Discrimination & Accommodation
+### FMLA & ADA 
 
 - In-Class Problem: The Sleepy Cashier (Workplace Law, Chap. 8)
 - [Americans with Disabilities Act, Title I](https://www.eeoc.gov/statutes/titles-i-and-v-americans-disabilities-act-1990-ada)
+- EEOC, [Disability Discrimination](https://www.eeoc.gov/disability-discrimination)
 - [Weaving v. City of Hillsboro](https://scholar.google.com/scholar_case?case=308923435134174858), 763 F.3d 1106 (9th Cir. 2014)
-- MORE CASES 
+- [Harrison v. Benchmark Electronics Hunstville, Inc.](https://scholar.google.com/scholar_case?case=7044367588430248224), 593 F.3d 1206 (11th Cir. 2010)
+- [Family & Medical Leave Act](https://www.law.cornell.edu/uscode/text/29/chapter-28)
+- U.S. Department of Labor, [FMLA](https://www.dol.gov/general/topic/workhours/fmla)
+- FMLA CASE
 
 #### 17 February 
 
@@ -254,6 +264,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Statutory Claims for Wrongful Termination
 
+- [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
+- EEOC, [Facts About Retaliation](https://www.eeoc.gov/facts-about-retaliation)
 - [Kraft v. Police Commissioner of Boston](https://scholar.google.com/scholar_case?case=13581269039453552612), 571 N.E.2d 380 (1991)
 - [Nelson v. Knight](https://scholar.google.com/scholar_case?case=4567992880939190219), 834 N.W.2d 64 (Iowa 2013)
 - [Yanowitz v. L'Oreal USA, Inc.](https://scholar.google.com/scholar_case?case=9894988930874080972), 116 P.3d 1123 (Cal. 2005)
