@@ -31,7 +31,7 @@ Your final grade for the term will be based on four take-home research & writing
 
 The graded problem assignments (from the _Developing Professional Skills_ workbook) and due dates are indicated in the "Schedule & Assignments" section of the syllabus. 
 
-The in-class performance component of your grade will be based on your contribution to class discussion. 
+The in-class performance component of your grade will be based on your contribution to class discussions. 
 
 ### Class Preparation, Attendance, & Participation
 

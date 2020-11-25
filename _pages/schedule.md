@@ -7,7 +7,7 @@ title: Schedule & Assignments
 
 ## Introduction
 
-#### Date
+#### 4 January
 
 ### Employment as a Socio-Legal Institution
 
@@ -16,7 +16,7 @@ title: Schedule & Assignments
 
 ## The Employment Relationship
 
-#### Date
+#### 6 January
 
 ### Employees
 
@@ -24,15 +24,13 @@ title: Schedule & Assignments
 - [Razak v. Uber Technologies, Inc.](https://scholar.google.com/scholar_case?case=5384082864511002532), No. 16-573 (E.D. Pa. April 11, 2018)
 - [Berwick v. Uber Technologies, Inc.]({{ site.baseurl }}/assets/course_material/Employment_Relation/Berwick_Uber.pdf), No. 11-46739 EK (Cal. Labor Comm'r June 3, 2015) 
 - [California Assembly Bill No. 5](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB5)
-- [California Proposition 22]()
+- [California Proposition 22]({{ site.baseurl }}/assets/materials/Employment_Relation/CaliforniaProp22.pdf)
 - [Dynamex Operations W. v. Superior Court](), 4 Cal. 5th 903 (2018)
-- [People v. Uber Technologies, Inc.](), No. CGC-20-584402 (Cal. Super.  Aug. 10, 2020)  
-- [Olson v. State of California](), No. CV 19-10956-DMG (C.D. Cal. Feb. 10, 2020)
 - [Wang v. Hearst Corp.](https://scholar.google.com/scholar_case?case=5018866496258436934), 877 F.3d 69 (2d Cir. 2015)
 - [Livers v. Nat'l Collegiate Athletic Ass'n](https://scholar.google.com/scholar_case?case=4514170612925040922), No. CV 17-4271, 2018 WL 2291027 (E.D. Pa. May 17, 2018)
 
 
-#### Date
+#### 11 January
 
 ### Employers
 
@@ -41,25 +39,26 @@ title: Schedule & Assignments
 - [Kology v. My Space NYC Corp.](https://scholar.google.com/scholar_case?case=5171880513635207739), 177 F. Supp. 3d 778 (E.D.N.Y. 2016)
 - EEOC, [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms]({{ site.baseurl }}/assets/course_material/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
 
-#### Date
+#### 13 January
 
 ### Recruitment & Hiring
 
 - In-Class Problem: The High-End Mechanic (Workplace Law, Chap. 3)
-- [Harrison v. Benchmark Electronics Hunstville, Inc.](https://scholar.google.com/scholar_case?case=7044367588430248224), 593 F.3d 1206 (11th Cir. 2010)
 - [Starbucks v. Superior Court](https://scholar.google.com/scholar_case?case=17493718255901717237), 168 Cal.App.4th 1436 (2008)
 - [Malorney v. B&L Motor Freight, Inc.](https://scholar.google.com/scholar_case?case=4195436759662276740), 496 N.E.2d 1086 (Ill. App. 1986)
 - [Kadlec Medical Center v. Lakeview Anesthesia Associates](https://scholar.google.com/scholar_case?case=11599447318284334533), 527 F.3d 412 (5th Cir. 2008)
+- [N.C.G.S. § 1-539.12](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_1/GS_1-539.12.pdf)
+- [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
+- EEOC, [Race/Color Discrmination](https://www.eeoc.gov/racecolor-discrimination)
+- EEOC, [Sex-Based Discrmination](https://www.eeoc.gov/sex-based-discrimination)
 - [McDonnell Douglas Corp. v. Green](https://scholar.google.com/scholar_case?case=4011882228792863251), 411 U.S. 792 (1973)
 - [Griggs v. Duke Power Co.](https://scholar.google.com/scholar_case?case=8655598674229196978), 401 U.S. 424 (1971)
 
-##### Due DATE 
-
-##### Problem Assignment 1: The Canine Trainer (Workplace Law, Chap. 1), 
+##### Problem Assignment 1: The Canine Trainer (Workplace Law, Chap. 1), due 15 January
 
 ## Supervision & Control of Employees
 
-#### Date
+#### 20 January 
 
 ### Workplace Supervision & Control
 
@@ -71,15 +70,17 @@ title: Schedule & Assignments
 - [Bodewig v. K-Mart, Inc.](https://scholar.google.com/scholar_case?case=6621202294068686752), 635 P.2d 657 (Or. Ct. App. 1981)
 - [Hall v. May Department Stores Co.](https://scholar.google.com/scholar_case?case=4646924336022970001), 637 P.2d 126 (Ore. 1981)
 
-#### Date
+#### 25 January 
 
-### Workplace Discrimination & Harassment
+### Workplace Harassment
 
+- [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
+- EEOC, [Harassment](https://www.eeoc.gov/harassment)
 - [Hogan v. Forsyth Country Club Co.](https://scholar.google.com/scholar_case?case=3693573124585245560), 340 S.E.2d 116 (N.C. App. 1986)
 - [Burlington Industries, Inc. v. Ellerth](https://scholar.google.com/scholar_case?case=2707173104214869053), 524 US 742 (1998)
 - [Faragher v. Boca Raton](https://scholar.google.com/scholar_case?case=15103611360542350644), 524 US 775 (1998)
 
-#### Date
+#### 27 January 
 
 ### Control Beyond the Workplace
 
@@ -93,13 +94,11 @@ title: Schedule & Assignments
 - Alexander Hertel-Fernandez, [How Employers Recruit Their Workers into Politics—And Why Political Scientists Should Care](https://scholar.harvard.edu/files/ahertel/files/empmobilpop.pdf), 14 Perspectives on Politics 410 (2016)
 - [California Labor Code §§ 1101-1106](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=2.&title=&part=3.&chapter=5.&article=)
 
-#### Due Date
-
-##### Problem Assignment 2: A Troublesome Crew (Workplace Law, Chap. 7)
+##### Problem Assignment 2: A Troublesome Crew (Workplace Law, Chap. 7), Due 29 January 
 
 ## Confidentiality & Employee Loyalty
 
-#### Date
+#### 1 February
 
 ### Disclosure & Misuse of Confidential Information
 
@@ -109,7 +108,7 @@ title: Schedule & Assignments
 - [NC Trade Secrets Protection Act](http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_66/Article_24.html), N.C.G.S. § 66-152 et seq.
 - [NC Property Protection Act](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99A.html), N.C.G.S. §  99A-2
 
-#### Date
+#### 3 February 
 
 ### Restrictions on Future Employment 
 
@@ -118,42 +117,46 @@ title: Schedule & Assignments
 - Conor Dougherty, [How Noncompete Clauses Keep Workers Locked In](https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html), N.Y. Times (June 9, 2017)
 - Conor Dougherty, [Noncompete Pacts, Under Seige, Find Haven in Idaho](https://www.nytimes.com/2017/07/14/business/economy/boise-idaho-noncompete-law.html), N.Y. Times (July 14, 2017)
 
-#### Due DATE
-
-##### Problem Assignment 3: The Doctor Is In (Workplace Law, Chap. 5)
+##### Problem Assignment 3: The Doctor Is In (Workplace Law, Chap. 5), due 5 February 
 
 ## Wages & Hours
 
-#### Date
+#### 8 February 
 
 ### Minimum Wage & Overtime
 
 - In-Class Problem: At Your Service (Workplace Law, Chap. 11)
 - [Fair Labor Standards Act](https://www.law.cornell.edu/uscode/text/29/chapter-8), 29 U.S.C. § 201 et seq.
+- U.S. Department of Labor, [Minimum Wage](https://www.dol.gov/general/topic/wages/minimumwage)
+- U.S. Department of Labor, [Overtime Pay](https://www.dol.gov/general/topic/wages/overtimepay)
 - [Donovan v. DialAmerica Marketing, Inc.](https://scholar.google.com/scholar_case?case=99681934367428947),757 F.2d 1376 (3d Cir. 1985)
 - [Christopher v. SmithKline Beecham Corp.](https://scholar.google.com/scholar_case?case=8691037892334429353), 132 S.Ct. 2156 (2012)
 - [IBP, Inc. v. Alvarez](https://scholar.google.com/scholar_case?case=3356476187904611012), 546 U.S. 21 (2005)
 
-#### Date
+#### 10 February 
 
 ### Wage Payment & Deductions
 
-- N.C. Wage Payment statute 
+- [N.C. Wage and Hour Act](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_95/Article_2A.html)
 - Cases on payments and deductions 
 - David Cooper and Teresa Kroeger, [Employers Steal Billions from Workers’ Paychecks Each Year](https://www.epi.org/publication/employers-steal-billions-from-workers-paychecks-each-year-survey-data-show-millions-of-workers-are-paid-less-than-the-minimum-wage-at-significant-cost-to-taxpayers-and-state-economies/), Economic Police Institute (May 10, 2017)
 
-## Employee Health & Safety
+## Employee Health, Disabilities, & Injuries
 
-#### Date
+#### 15 February 
 
-### Disability Discrimination & Accommodation
+### FMLA & ADA 
 
 - In-Class Problem: The Sleepy Cashier (Workplace Law, Chap. 8)
 - [Americans with Disabilities Act, Title I](https://www.eeoc.gov/statutes/titles-i-and-v-americans-disabilities-act-1990-ada)
+- EEOC, [Disability Discrimination](https://www.eeoc.gov/disability-discrimination)
 - [Weaving v. City of Hillsboro](https://scholar.google.com/scholar_case?case=308923435134174858), 763 F.3d 1106 (9th Cir. 2014)
-- MORE CASES 
+- [Harrison v. Benchmark Electronics Hunstville, Inc.](https://scholar.google.com/scholar_case?case=7044367588430248224), 593 F.3d 1206 (11th Cir. 2010)
+- [Family & Medical Leave Act](https://www.law.cornell.edu/uscode/text/29/chapter-28)
+- U.S. Department of Labor, [FMLA](https://www.dol.gov/general/topic/workhours/fmla)
+- FMLA CASE
 
-#### Date
+#### 17 February 
 
 ### Workers' Compensation 
 
@@ -161,19 +164,9 @@ title: Schedule & Assignments
 - [McGrady v. Olsten Corp.](https://scholar.google.com/scholar_case?case=16870479702852544836), 583 S.E.2d 371 (N.C. App. 2003)
 - [Deem v. Treadaway & Sons Painting & Wallcovering, Inc.](https://scholar.google.com/scholar_case?case=1513165138469746147), 543 SE 2d 209 (N.C. App. 2001)
 
-#### Date
-
-### Occupational Safety & Health 
-
-- [Occupational Safety & Health Act](https://www.law.cornell.edu/uscode/text/29/chapter-15), 29 U.S.C. § 651 et seq.
-- [Durez Division of Occidental Chemical Corp. v. OSHA](https://scholar.google.com/scholar_case?case=1739634889523204094), 906 F.2d 1 (DC Cir. 1990)
-- [SeaWorld of Florida, LLC v. Perez](https://scholar.google.com/scholar_case?case=7763034376466067880), 748 F.3d 1202 (DC Cir. 2014)
-- [Brennan v. OSHRC (Republic Creosoting Co.)](https://scholar.google.com/scholar_case?case=2216222739619931026), 501 F.2d 1196 (7th Cir. 1974)
-- [Whirlpool Corp. v. Marshall](https://scholar.google.com/scholar_case?case=9208863501557451276), 445 U.S. 1 (1980)
-
 ## Terminating Employment
 
-#### Date
+#### 22 February 
 
 ### The At-Will Presumption
 
@@ -183,7 +176,7 @@ title: Schedule & Assignments
 - Patrick McGeehan, [After Winning a $15 Minimum Wage, Fast Food Workers Now Battle Unfair Firings](), N.Y. Times (Feb. 12, 2019) 
 
 
-#### Date
+#### 24 February 
 
 ### Contract & Reliance Claims for Wrongful Termination 
 
@@ -192,7 +185,7 @@ title: Schedule & Assignments
 - [Harris v. Duke Power Co.](https://scholar.google.com/scholar_case?case=15762179126705154774), 356 S.E.2d 357 (N.C. 1987)
 - [Kurtzman v. Applied Analytical Industries, Inc.](https://scholar.google.com/scholar_case?case=18327963070137805198), 493 S.E.2d 420 (N.C. 1997)
 
-#### Date
+#### 1 March 
 
 ### Tort Claims for Wrongful Termination 
 
@@ -204,16 +197,18 @@ title: Schedule & Assignments
 - [Garner v. Rentenbach Constructors Inc.](https://scholar.google.com/scholar_case?case=2014460600734710241), 515 S.E.2d 438 (N.C. 1999)
 - [Hansen v. America Online, Inc.](https://scholar.google.com/scholar_case?case=15088063698233258842), 96 P.3d 950 (Utah 2004)
 
-#### Date
+#### 4 March 
 
 ### Statutory Claims for Wrongful Termination
 
+- [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
+- EEOC, [Facts About Retaliation](https://www.eeoc.gov/facts-about-retaliation)
 - [Kraft v. Police Commissioner of Boston](https://scholar.google.com/scholar_case?case=13581269039453552612), 571 N.E.2d 380 (1991)
 - [Nelson v. Knight](https://scholar.google.com/scholar_case?case=4567992880939190219), 834 N.W.2d 64 (Iowa 2013)
 - [Yanowitz v. L'Oreal USA, Inc.](https://scholar.google.com/scholar_case?case=9894988930874080972), 116 P.3d 1123 (Cal. 2005)
 - [Marcy v. Delta Airlines](https://scholar.google.com/scholar_case?case=1957833058297740183), 166 F.3d 1279 (9th Cir. 1999)
 
-#### Date
+#### 8 March 
 
 ### Unemployment Compensation
 
@@ -222,9 +217,9 @@ title: Schedule & Assignments
 - [Lindsey v. Qualex, Inc.](https://scholar.google.com/scholar_case?case=14758084602033497150), 406 S.E.2d 609 (N.C. App. 1991)
 - [Lynch v. PPG Industries](https://scholar.google.com/scholar_case?case=10907573351503868530), 412 S.E.2d 163 (N.C. App. 1992)
 
-#### Due Date
+##### Problem Assignment 4: The Smart-Tek IPO (Workplace Law, Chap. 4), due 12 March 
 
-##### Problem Assignment 4: The Smart-Tek IPO (Workplace Law, Chap. 4)
+#### 10 March 
 
 ## Employment Arbitration
 
