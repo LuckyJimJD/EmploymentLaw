@@ -10,8 +10,8 @@ address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Employment Law
 term: Winter 2020
-days: Days & Times TBD
-room: Room TBD
+days: "Mondays & Wednesdays, 9:15 – 11:00 a.m."
+room: Room 206
 
 output: 
   pdf_document:
@@ -22,7 +22,7 @@ output:
 
 # Description
 
-This course surveys federal and state laws governing employment. Topics to be covered include establishing an employment relationship; recruitment & hiring; supervisory control and employee autonomy; confidentiality & competition; wages & hours; workplace safety & health; termination of employment; and arbitration of employment disputes. Some of the issues touched on in this course are covered in further depth in other courses, such as Employment Discrimination and Labor Law. 
+This course surveys federal and state laws governing employment. Topics to be covered include establishing an employment relationship; recruitment & hiring; supervisory control and employee autonomy; confidentiality & competition; wages & hours; employee health & workplace injuries; termination of employment; and arbitration of employment disputes. Some of the issues touched on in this course are covered in further depth in other courses, such as Employment Discrimination and Labor Law. 
 
 After completing the course, you should be able to recognize and diagnose legal issues arising in the employment context, analyze those issues under the applicable law, and help clients avoid legal problems or pursue remedies when they arise. Simulation problems, including in-class discussion and take-home research and writing assignments, provide an opportunity to develop practical skills for representing clients in employment matters. 
 
@@ -30,9 +30,9 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 #### Required 
 
-Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016)
+Cases, statutes, and other assigned readings are available online via the course website, [`emfink.net/EmploymentLaw`](https://www.emfink.net/EmploymentLaw)
 
-Cases, statutes, and other assigned readings are available online via the course website, [`emfink.net/EmploymentLaw`](https://www.emfink.net/EmploymentLaw). 
+Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016)
 
 #### Suggested 
 
@@ -45,8 +45,6 @@ Paul M. Secunda, Richard Bales, Jeffrey M. Hirsch, Understanding Employment Law 
 Your final grade for the term will be based on four take-home research & writing problems (20% each; 80% total) and your in-class performance (20%).  There will be no final exam or paper for this course. 
 
 The graded problem assignments (from the _Developing Professional Skills_ workbook) and due dates are indicated in the "Schedule & Assignments" section of the syllabus. 
-
-The in-class performance component of your grade will be based on your contribution to class discussion. 
 
 #### Attendance 
 
