@@ -7,41 +7,47 @@ title: Schedule & Assignments
 
 ## Introduction
 
-#### 4 January
-
 ### Employment as a Socio-Legal Institution
+
+#### 4 January
 
 - Karen Orren, [Belated Feudalism: Labor, the Law, and Liberal Development in the United States]({{ site.baseurl }}/assets/materials/Introduction/Orren_BelatedFeudalism_Chap3.pdf), chap. 3 (1991)
 - Elizabeth Anderson, ["Lecture II: Private Government"]({{ site.baseurl }}/assets/materials/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94-118 (2016)
 
 ## The Employment Relationship
 
-#### 6 January
-
 ### Employees
+
+#### 6 January
 
 - [Lemmerman v. A.T. Williams Oil Co.](https://scholar.google.com/scholar_case?case=6248840867874930751), 350 S.E.2d 83 (N.C. 1986)
 - [Dynamex Operations West, Inc. v. Superior Court](https://scholar.google.com/scholar_case?case=11678427728482268616), 4 Cal. 5th 903 (2018)
-- [California Assembly Bill No. 5](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB5)
-- [California Proposition 22]({{ site.baseurl }}/assets/materials/Employment_Relation/CaliforniaProp22.pdf)
+- [California Assembly Bill No. 5]({{ site.baseurl }}/assets/materials/Employment_Relation/AB95_Cal_2019.pdf) (2019)
+- [California Proposition 22]({{ site.baseurl }}/assets/materials/Employment_Relation/CaliforniaProp22.pdf) (2020)
 - [Wang v. Hearst Corp.](https://scholar.google.com/scholar_case?case=5018866496258436934), 877 F.3d 69 (2d Cir. 2015)
 - [Livers v. Nat'l Collegiate Athletic Ass'n](https://scholar.google.com/scholar_case?case=6178596503272508930), No. 17-4271, 2018 WL 3609839 (E.D. Pa. July 26, 2018)
 - [Dawson v. Nat'l Collegiate Athletic Ass'n](https://scholar.google.com/scholar_case?case=11268467545742196251), 932 F.3d 905 (9th Cir. 2019)
 - Naomi B. Sunshine, [Employees as Price-Takers]({{ site.baseurl }}/assets/materials/Employment_Relation/Sunshine2018.pdf), 22 Lewis & Clark L. Rev. 105 (2018)
 - Richard R. Carlson, [Why the Law Still Can't Tell an Employee When It Sees One And How It Ought to Stop Trying]({{ site.baseurl }}/assets/materials/Employment_Relation/Carlson2001.pdf), 22 Berkeley Journal of Employment and Labor Law 295 (2001)
 
-#### 11 January
-
 ### Employers
+
+#### 11 January
 
 - [Amarnare v. Merrill Lynch, Pierce, Fenner, & Smith, Inc.](https://scholar.google.com/scholar_case?case=832858493617782845), 611 F. Supp. 344 (S.D.N.Y. 1984)
 - [Zheng v. Liberty Apparel Co.](https://scholar.google.com/scholar_case?case=9605763977687687114), 355 F.3d 61 (2d Cir. 2003)
 - [Kology v. My Space NYC Corp.](https://scholar.google.com/scholar_case?case=5171880513635207739), 177 F. Supp. 3d 778 (E.D.N.Y. 2016)
 - EEOC, [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms]({{ site.baseurl }}/assets/materials/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
-
-#### 13 January
+- US Department of Labor, [Joint Employer Status Under the Fair Labor Standards Act]({{ site.baseurl }}/assets/materials/Employment_Relation/DOL_JointEmployerRule_2020.pdf), Final Rule, 85 Fed. Reg. 2820 (Feb. 26, 2020) 
+	- Read the Executive Summary, Background, & Need for Rulemaking sections (pages 2820-24) and the rule itself (pages 2858-62). You may skip the remaining sections (2824-58).
+- [Browning-Ferris Industries of California]({{ site.baseurl }}/assets/materials/Employment_Relation/Browning-Ferris_NLRB_2015.pdf), 362 NLRB No. 186 (NLRB 2015)
+- [Browning-Ferris Industries of California]({{ site.baseurl }}/assets/materials/Employment_Relation/Browning-Ferris_NLRB_2020.pdf), 369 NLRB No. 139 (NLRB 2020)
+- NLRB, [Joint Employer Status Under the National Labor Relations Act]({{ site.baseurl }}/assets/materials/Employment_Relation/NLRB_JointEmployerRule_2020.pdf), Final Rule, 85 Fed. Reg. 11184 (Feb. 26, 2020) 
+	- Read the Background, Summary, & Justification for Using Rulemaking sections (pages 11184-88) and the rule itself (pages 11235-36). You may skip the remaining sections (11188-235).
 
 ### Recruitment & Hiring
+
+#### 13 January
 
 - In-Class Problem: The High-End Mechanic (Workplace Law, Chap. 3)
 - [Starbucks v. Superior Court](https://scholar.google.com/scholar_case?case=17493718255901717237), 168 Cal.App.4th 1436 (2008)
@@ -61,9 +67,9 @@ title: Schedule & Assignments
 
 ## Supervision & Control of Employees
 
-#### 20 January 
-
 ### Workplace Supervision & Control
+
+#### 20 January 
 
 - [T-Mobile USA, Inc.](https://apps.nlrb.gov/link/document.aspx/09031d45820a5493), 363 NLRB No. 171 (2016)
 - [Cloutier v. Costco Wholesale Corp.](https://scholar.google.com/scholar_case?case=15139833012244209720), 390 F.3d 126 (2004)
@@ -73,9 +79,9 @@ title: Schedule & Assignments
 - [Bodewig v. K-Mart, Inc.](https://scholar.google.com/scholar_case?case=6621202294068686752), 635 P.2d 657 (Or. Ct. App. 1981)
 - [Hall v. May Department Stores Co.](https://scholar.google.com/scholar_case?case=4646924336022970001), 637 P.2d 126 (Ore. 1981)
 
-#### 25 January 
-
 ### Workplace Harassment
+
+#### 25 January 
 
 - [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
 - EEOC, [Harassment](https://www.eeoc.gov/harassment)
@@ -84,9 +90,9 @@ title: Schedule & Assignments
 - [Faragher v. Boca Raton](https://scholar.google.com/scholar_case?case=15103611360542350644), 524 US 775 (1998)
 - Ramit Mizrahi, [Sexual Harassment Law After #MeToo: Looking to California as a Model](https://www.yalelawjournal.org/pdf/Mizrahi_9ssdtnny.pdf), Yale Law Review Forum (June 18, 2018)
 
-#### 27 January 
-
 ### Control Beyond the Workplace
+
+#### 27 January 
 
 - In-Class Problem: The Facebook Post (Workplace Law, Chap. 6)
 - [Rulon-Miller v. International Business Machines Corp.](https://scholar.google.com/scholar_case?case=5637363750389070326), 162 Cal. App. 3d 241 (1984)
@@ -101,9 +107,9 @@ title: Schedule & Assignments
 
 ## Confidentiality & Employee Loyalty
 
-#### 1 February
-
 ### Disclosure & Misuse of Confidential Information
+
+#### 1 February
 
 - [Food Lion, Inc. v. Capital Cities/ABC, Inc.](https://scholar.google.com/scholar_case?case=6427205145089719796), 951 F.Supp. 1224 (M.D.N.C. 1996), aff'd in relevant part, 194 F. 3d 505 (4th Cir. 1999)
 - [Dalton v. Camp](https://scholar.google.com/scholar_case?case=12759321085440149299), 548 S.E.2d 704 (N.C. 2001)
@@ -111,15 +117,15 @@ title: Schedule & Assignments
 - [NC Trade Secrets Protection Act](http://www.ncga.state.nc.us/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_66/Article_24.html), N.C.G.S. § 66-152 et seq.
 - [NC Property Protection Act](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99A.html), N.C.G.S. § 99A-2
 
-#### 3 February 
-
 ### Restrictions on Future Employment 
+
+#### 3 February 
 
 - [TSG Finishing, LLC v. Bollinger](https://scholar.google.com/scholar_case?case=12615983263331769195), 767 S.E.2d 870 (N.C. App. 2014)
 - [Edwards v. Arthur Anderson, LLP](https://scholar.google.com/scholar_case?case=969445912817466674), 44 Cal.4th 937 (2008)
 - Conor Dougherty, [How Noncompete Clauses Keep Workers Locked In](https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html), N.Y. Times (June 9, 2017)
 - Conor Dougherty, [Noncompete Pacts, Under Seige, Find Haven in Idaho](https://www.nytimes.com/2017/07/14/business/economy/boise-idaho-noncompete-law.html), N.Y. Times (July 14, 2017)
-- Alan B. Krueger & Eric A. Posner, [A Proposal for Protecting Low‑Income Workers from Monopsony and Collusion](https://www.brookings.edu/wp-content/uploads/2018/02/es_2272018_protecting_low_income_workers_from_monopsony_collusion_krueger_posner_pp.pdf), The Hamilton Project (Feb. 2018)
+- Alan B. Krueger & Eric A. Posner, [A Proposal for Protecting Low-Income Workers from Monopsony and Collusion](https://www.brookings.edu/wp-content/uploads/2018/02/es_2272018_protecting_low_income_workers_from_monopsony_collusion_krueger_posner_pp.pdf), The Hamilton Project (Feb. 2018)
 
 ##### Problem Assignment 3: The Doctor Is In (Workplace Law, Chap. 5), due 5 February 
 
@@ -129,8 +135,6 @@ title: Schedule & Assignments
 
 - In-Class Problem: At Your Service (Workplace Law, Chap. 11)
 - [Fair Labor Standards Act](https://www.law.cornell.edu/uscode/text/29/chapter-8), 29 U.S.C. § 201 et seq.
-- U.S. Department of Labor, [Minimum Wage](https://www.dol.gov/general/topic/wages/minimumwage)
-- U.S. Department of Labor, [Overtime Pay](https://www.dol.gov/general/topic/wages/overtimepay)
 - [Donovan v. DialAmerica Marketing, Inc.](https://scholar.google.com/scholar_case?case=99681934367428947),757 F.2d 1376 (3d Cir. 1985)
 - [Christopher v. SmithKline Beecham Corp.](https://scholar.google.com/scholar_case?case=8691037892334429353), 132 S.Ct. 2156 (2012)
 - [IBP, Inc. v. Alvarez](https://scholar.google.com/scholar_case?case=3356476187904611012), 546 U.S. 21 (2005)
@@ -139,21 +143,19 @@ title: Schedule & Assignments
 
 ## Disabilities, Health, & Safety
 
-#### 10 February 
-
 ### FMLA & ADA 
 
+#### 10 February 
+
 - In-Class Problem: The Sleepy Cashier (Workplace Law, Chap. 8)
-- [Americans with Disabilities Act, Title I](https://www.eeoc.gov/statutes/titles-i-and-v-americans-disabilities-act-1990-ada)
-- EEOC, [Disability Discrimination](https://www.eeoc.gov/disability-discrimination)
+- Americans with Disabilities Act, [Findings & Purpose](https://www.law.cornell.edu/uscode/text/42/12101), 42 U.S. Code § 12101; [Definition of Disability](https://www.law.cornell.edu/uscode/text/42/12102), 42 U.S. Code § 12102; [Employment](https://www.law.cornell.edu/uscode/text/42/chapter-126/subchapter-I), 42 U.S. Code §§ 12111 et seq.
+- Family & Medical Leave Act, [Findings & Purpose](https://www.law.cornell.edu/uscode/text/29/2601), 29 U.S. Code §§ 2601; [General Requirements for Leave](https://www.law.cornell.edu/uscode/text/29/chapter-28/subchapter-I), 29 U.S. Code §§ 2611-20; [Miscellaneous Provisions](https://www.law.cornell.edu/uscode/text/29/chapter-28/subchapter-III), 29 U.S. Code §§ 2651-54
 - [Weaving v. City of Hillsboro](https://scholar.google.com/scholar_case?case=308923435134174858), 763 F.3d 1106 (9th Cir. 2014)
 - [Harrison v. Benchmark Electronics Hunstville, Inc.](https://scholar.google.com/scholar_case?case=7044367588430248224), 593 F.3d 1206 (11th Cir. 2010)
-- [Family & Medical Leave Act](https://www.law.cornell.edu/uscode/text/29/chapter-28)
-- U.S. Department of Labor, [FMLA](https://www.dol.gov/general/topic/workhours/fmla)
-
-#### 15 February 
 
 ### Workers' Compensation & OSHA
+
+#### 15 February 
 
 - [NC Workers' Compensation Act]({{ site.baseurl }}/assets/materials/Safety_Health/NCGS_Chap97.pdf),N.C.G.S. §§ 97-1 et seq.
 - [McGrady v. Olsten Corp.](https://scholar.google.com/scholar_case?case=16870479702852544836), 583 S.E.2d 371 (N.C. App. 2003)
@@ -165,9 +167,9 @@ title: Schedule & Assignments
 
 ## Terminating Employment
 
-#### 17 February 
-
 ### The At-Will Presumption
+
+#### 17 February 
 
 - [Skagerberg v. Blandin Paper Co.]({{ site.baseurl }}/assets/materials/Termination/Skagerberg.pdf), 266 N.W. 872 (Minn. 1936)
 - [Pugh v. See's Candies, Inc.](https://scholar.google.com/scholar_case?case=15425639941632764596), 116 Cal. App. 3d 311 (1981)
@@ -176,18 +178,18 @@ title: Schedule & Assignments
 - Clyde W. Summers, [Employment at Will in the United States: The Divine Right of Employers]({{ site.baseurl }}/assets/materials/Termination/Summers2000.pdf), 3 U. Penn. Journal of Labor & Employment Law 65 (2000)
 - Richard A. Epstein, [In Defense of the Contract at Will]({{ site.baseurl }}/assets/materials/Termination/Epstein1984.pdf), 51 U. Chicago Law Review 947 (1984)
 
-#### 22 February 
-
 ### Contract & Reliance Claims for Wrongful Termination 
+
+#### 22 February 
 
 - In-Class Problem: In-House at Big Pharm (Workplace Law, Chap. 2)
 - [Woolley v. Hoffmann-La Roche, Inc.](https://scholar.google.com/scholar_case?case=13252924286881016662), 491 A. 2d 1257 (N.J. 1985)
 - [Harris v. Duke Power Co.](https://scholar.google.com/scholar_case?case=15762179126705154774), 356 S.E.2d 357 (N.C. 1987)
 - [Kurtzman v. Applied Analytical Industries, Inc.](https://scholar.google.com/scholar_case?case=18327963070137805198), 493 S.E.2d 420 (N.C. 1997)
 
-#### 24 February
-
 ### Tort Claims for Wrongful Termination 
+
+#### 24 February
 
 - [Fortune v. National Cash Register Co.](https://scholar.google.com/scholar_case?case=6986969372193814031), 364 NE 2d 1251 (Mass. 1977)
 - [Murphy v. American Home Products Corp.](https://scholar.google.com/scholar_case?case=17713301105983634351), 58 N.Y.2d 293 (1983)
@@ -197,21 +199,21 @@ title: Schedule & Assignments
 - [Garner v. Rentenbach Constructors Inc.](https://scholar.google.com/scholar_case?case=2014460600734710241), 515 S.E.2d 438 (N.C. 1999)
 - [Hansen v. America Online, Inc.](https://scholar.google.com/scholar_case?case=15088063698233258842), 96 P.3d 950 (Utah 2004)
 
-#### 1 March 
-
 ### Statutory Claims for Wrongful Termination
+
+#### 1 March 
 
 - [Civil Rights Act of 1964, Title VII](https://www.law.cornell.edu/uscode/text/42/chapter-21/subchapter-VI)
 - EEOC, [Facts About Retaliation](https://www.eeoc.gov/facts-about-retaliation)
-- [Kraft v. Police Commissioner of Boston](https://scholar.google.com/scholar_case?case=13581269039453552612), 571 N.E.2d 380 (1991)
+- [Bostock v. Clayton County, Georgia](https://scholar.google.com/scholar_case?case=13821597088002244842), 140 S.Ct. 1731 (2020)
 - [Nelson v. Knight](https://scholar.google.com/scholar_case?case=4567992880939190219), 834 N.W.2d 64 (Iowa 2013)
 - [Yanowitz v. L'Oreal USA, Inc.](https://scholar.google.com/scholar_case?case=9894988930874080972), 116 P.3d 1123 (Cal. 2005)
 - [Whirlpool Corp. v. Marshall](https://scholar.google.com/scholar_case?case=9208863501557451276), 445 U.S. 1 (1980)
-- [Marcy v. Delta Airlines](https://scholar.google.com/scholar_case?case=1957833058297740183), 166 F.3d 1279 (9th Cir. 1999)
-
-#### 3 March 
+- [Myers v. Howmedica Osteonics Corp.](https://scholar.google.com/scholar_case?case=8386788161920905066), No. CV 14-248-M-DLC, 2016 WL 1259385 (D. Mont. 2016)
 
 ### Unemployment Compensation
+
+#### 3 March 
 
 - [NC Employment Security Law]({{ site.baseurl }}/assets/course_material/UnemploymentComp/NCGS_96-1.pdf), N.C.G.S. § 96-1 et seq.
 - [Intercraft Industries Corp. v. Morrison](https://scholar.google.com/scholar_case?case=18288373329102087649), 289 S.E.2d 357 (NC 1982)
@@ -220,20 +222,21 @@ title: Schedule & Assignments
 
 ##### Problem Assignment 4: The Smart-Tek IPO (Workplace Law, Chap. 4), due 12 March 
 
-#### 8 March 
-
 ## Employment Arbitration
+
+#### 8 March 
 
 - In-Class Problem: The Aging Chocolatier (Workplace Law, Chap. 10)
 - [Epic Systems Corp. v. Lewis](https://scholar.google.com/scholar_case?case=8345012189188610773), 138 S.Ct. 1612 (2018)
 - Jessica Silver-Greenberg & Michael Corkery, [In Arbitration, a 'Privatization of the Justice System'](https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html), N.Y. Times (Nov. 1, 2015)
 - Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/course_material/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
 
-#### 10 March 
 
 ## Trending Topics: Local Government Protections for Precarious Employment 
 
-- National Employment Law Project [Fired on a Whim: The Precarious Existence of NYC Fast-Food Workers](({{ site.baseurl }}/assets/course_material/PrecariousEmployment/FiredOnWhim.pdf) (Feb. 13, 2019)
+#### 10 March 
+
+- National Employment Law Project [Fired on a Whim: The Precarious Existence of NYC Fast-Food Workers]({{ site.baseurl }}/assets/course_material/PrecariousEmployment/FiredOnWhim.pdf) (Feb. 13, 2019)
 - Keystone Research Center, [Parking Industry Fuels Poverty in Philadelphia]({{ site.baseurl }}/assets/course_material/PrecariousEmployment/ParkingPoverty.pdf) (March 2019)
 - [NY City Fair Work Week Law](https://www1.nyc.gov/assets/dca/downloads/pdf/about/FairWorkweek-LawRules.pdf)
 - Julia Wolfe, Janelle Jones, & David Cooper, ['Fair Workweek' Laws Help More Than 1.8 Million Workers](https://www.epi.org/publication/fair-workweek-laws-help-more-than-1-8-million-workers/), Economic Policy Institute (July 19, 2018)
