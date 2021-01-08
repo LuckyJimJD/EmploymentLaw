@@ -277,7 +277,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### 3 March 
 
-- [NC Employment Security Law]({{ site.baseurl }}/assets/course_material/UnemploymentComp/NCGS_96-1.pdf), N.C.G.S. § 96-1 et seq.
+- [NC Employment Security Law]({{ site.baseurl }}/assets/materials/UnemploymentComp/NCGS_96-1.pdf), N.C.G.S. § 96-1 et seq.
 - [Intercraft Industries Corp. v. Morrison](https://scholar.google.com/scholar_case?case=18288373329102087649), 289 S.E.2d 357 (NC 1982)
 - [Lindsey v. Qualex, Inc.](https://scholar.google.com/scholar_case?case=14758084602033497150), 406 S.E.2d 609 (N.C. App. 1991)
 - [Lynch v. PPG Industries](https://scholar.google.com/scholar_case?case=10907573351503868530), 412 S.E.2d 163 (N.C. App. 1992)
@@ -291,15 +291,15 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - In-Class Problem: The Aging Chocolatier (Workplace Law, Chap. 10)
 - [Epic Systems Corp. v. Lewis](https://scholar.google.com/scholar_case?case=8345012189188610773), 138 S.Ct. 1612 (2018)
 - Jessica Silver-Greenberg & Michael Corkery, [In Arbitration, a 'Privatization of the Justice System'](https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html), N.Y. Times (Nov. 1, 2015)
-- Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/course_material/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
+- Jean Sternlight [Mandatory Arbitration Stymies Progress Towards Justice in Employment Law: Where To, #MeToo?]({{ site.baseurl }}/assets/materials/Enforcement_Remedies/Sternlight.pdf), 54 Harvard Civil Rights-Civil Liberties Law Review (2019)
 
 
 ## Trending Topics: Local Government Protections for Precarious Employment 
 
 #### 10 March 
 
-- National Employment Law Project [Fired on a Whim: The Precarious Existence of NYC Fast-Food Workers]({{ site.baseurl }}/assets/course_material/PrecariousEmployment/FiredOnWhim.pdf) (Feb. 13, 2019)
-- Keystone Research Center, [Parking Industry Fuels Poverty in Philadelphia]({{ site.baseurl }}/assets/course_material/PrecariousEmployment/ParkingPoverty.pdf) (March 2019)
+- National Employment Law Project [Fired on a Whim: The Precarious Existence of NYC Fast-Food Workers]({{ site.baseurl }}/assets/materials/PrecariousEmployment/FiredOnWhim.pdf) (Feb. 13, 2019)
+- Keystone Research Center, [Parking Industry Fuels Poverty in Philadelphia]({{ site.baseurl }}/assets/materials/PrecariousEmployment/ParkingPoverty.pdf) (March 2019)
 - [NY City Fair Work Week Law](https://www1.nyc.gov/assets/dca/downloads/pdf/about/FairWorkweek-LawRules.pdf)
 - Julia Wolfe, Janelle Jones, & David Cooper, ['Fair Workweek' Laws Help More Than 1.8 Million Workers](https://www.epi.org/publication/fair-workweek-laws-help-more-than-1-8-million-workers/), Economic Policy Institute (July 19, 2018)
 - Panos Mourdoukoutas, [San Francisco and NYC Begin to See the Ugly Side of 'Fair Workweek' Laws](https://www.forbes.com/sites/panosmourdoukoutas/2019/11/16/san-francisco-and-nyc-begin-to-see-the-ugly-side-of-fair-workweek-laws/?sh=314e84b04508), Forbes.com (Nov. 16, 2019)

@@ -18,7 +18,7 @@ title: Links
 
 - [Family and Medical Leave Act](https://www.dol.gov/whd/regs/statutes/fmla.htm), 29 U.S.C. § 2601 et seq.
 
-- [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms]({{ site.baseurl }}/assets/course_material/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
+- [Enforcement Guidelines on Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms]({{ site.baseurl }}/assets/materials/Employment_Relation/EEOC_EnforcementGuideline.pdf), Notice No. 915.002 (Dec. 3, 1997)
 
 - [Occupational Safety & Health Act](https://www.law.cornell.edu/uscode/text/29/chapter-15), 29 U.S.C. § 651 et seq.
 
