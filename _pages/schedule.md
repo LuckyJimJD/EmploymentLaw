@@ -12,7 +12,7 @@ title: Schedule & Assignments
 #### 4 January
 
 - Karen Orren, [Belated Feudalism: Labor, the Law, and Liberal Development in the United States](https://www.emfink.net/EmploymentLaw/assets/materials/Introduction/Orren_BelatedFeudalism_Chap3.pdf), chap. 3 (1991)
-- Elizabeth Anderson, ["Lecture II: Private Government"](https://www.emfink.net/EmploymentLaw/assets/materials/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94-118 (2016)
+- Elizabeth Anderson, ["Lecture II: Private Government"](https://www.emfink.net/EmploymentLaw/assets/materials/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human, 94-118 (2016)
 
 ## The Employment Relationship
 
@@ -242,5 +242,5 @@ title: Schedule & Assignments
 - Julia Wolfe, Janelle Jones, & David Cooper, ['Fair Workweek' Laws Help More Than 1.8 Million Workers](https://www.epi.org/publication/fair-workweek-laws-help-more-than-1-8-million-workers/), Economic Policy Institute (July 19, 2018)
 - Panos Mourdoukoutas, [San Francisco and NYC Begin to See the Ugly Side of 'Fair Workweek' Laws](https://www.forbes.com/sites/panosmourdoukoutas/2019/11/16/san-francisco-and-nyc-begin-to-see-the-ugly-side-of-fair-workweek-laws/?sh=314e84b04508), Forbes.com (Nov. 16, 2019)
 - Alexia Elejalde-Ruiz, [Chicago's Fair Workweek Law Takes Effect Wednesday as Businesses Grapple with Pandemic Uncertainty](https://www.chicagotribune.com/business/ct-biz-fair-workweek-chicago-20200629-uqfrrfrky5ck5lryhopzkpko5q-story.html), Chicago Tribue (June 29, 2020)
-- Juliana Feliciano Reyes, [City Council Approves 'Just-Cause,' a Cutting-Edge Worker Protection Law, for the Parking Industry](https://www.inquirer.com/news/just-cause-firing-bill-philadelphia-parking-lot-workers-seiu-32bj-20190516.html4), Phildelphia Inquirer (May 16, 2019)
+- Juliana Feliciano Reyes, [City Council Approves 'Just-Cause,' a Cutting-Edge Worker Protection Law, for the Parking Industry](https://www.inquirer.com/news/just-cause-firing-bill-philadelphia-parking-lot-workers-seiu-32bj-20190516.html4), Philadelphia Inquirer (May 16, 2019)
 - Steven Greenhouse, [Firing Workers on the Boss's Whim? New York Puts a Stop to That](https://prospect.org/labor/firing-workers-on-the-boss-whim-new-york-just-cause-law/), The American Prospect (Dec. 24, 2020)
