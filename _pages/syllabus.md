@@ -73,8 +73,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### 4 January
 
-- Karen Orren, [Belated Feudalism: Labor, the Law, and Liberal Development in the United States]({{ site.baseurl }}/assets/materials/Introduction/Orren_BelatedFeudalism_Chap3.pdf), chap. 3 (1991)
-- Elizabeth Anderson, ["Lecture II: Private Government"]({{ site.baseurl }}/assets/materials/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94-118 (2016)
+- Karen Orren, [Belated Feudalism: Labor, the Law, and Liberal Development in the United States](https://www.emfink.net/EmploymentLaw/assets/materials/Introduction/Orren_BelatedFeudalism_Chap3.pdf), chap. 3 (1991)
+- Elizabeth Anderson, ["Lecture II: Private Government"](https://www.emfink.net/EmploymentLaw/assets/materials/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94-118 (2016)
 
 ## The Employment Relationship
 
