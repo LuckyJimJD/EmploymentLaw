@@ -157,6 +157,7 @@ title: Schedule & Assignments
 
 #### 15 February 
 
+- In-Class Problem: [Workers' Compensation](https://www.emfink.net/EmploymentLaw/problems/WorkersCompProblem)
 - [NC Workers' Compensation Act](https://www.emfink.net/EmploymentLaw/assets/materials/Safety_Health/NCGS_Chap97.pdf),N.C.G.S. §§ 97-1 et seq.
 - [McGrady v. Olsten Corp.](https://scholar.google.com/scholar_case?case=16870479702852544836), 583 S.E.2d 371 (N.C. App. 2003)
 - [Deem v. Treadaway & Sons Painting & Wallcovering, Inc.](https://scholar.google.com/scholar_case?case=1513165138469746147), 543 SE 2d 209 (N.C. App. 2001)
